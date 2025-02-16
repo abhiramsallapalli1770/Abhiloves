@@ -1,7 +1,9 @@
+
 const loveQuotes = [
-    "DEAR RAJESHWARI YOU ARE THE MOST PRECIOUS POSSESSION I'VE EVER HAD IN MY ENTIRE LIFE. ❤️",
-    "From the moment i met you i knew you are something special to me",
-    "Will you be my valantine... and my forever love"
+    "DEAR AMMULU BANGAARAM YOU ARE THE MOST PRECIOUS POSSESSION I'VE EVER HAD IN MY ENTIRE LIFE. ❤️",
+    "nee eng irandal una naa tedi varuvey.💑",
+    "nuvvantey naaku praanam ye ammulu. ",
+    "love you soo much ammulu bangaaram."
 ];
 
 
